@@ -35,14 +35,15 @@
 ## 机器学习步骤
 机器学习的核心流程可以拆成下面几步：
 1. 定义要找的函数模型
-  <img src="image/Lec01-function.png" width="500"/>
+![Lec01-function](image/Lec01-function.png)
 2. 收集训练数据
 3. 定义损失函数（loss function）
-  <img src="image/Lec01-loss.png" width="500"/>
-  <img src="image/Lec01-loss2.png" width="500"/>
-  <img src="image/Lec01-loss3.png" width="500"/>
+![Lec01-loss](image/Lec01-loss.png)
+![Lec01-loss2](image/Lec01-loss2.png)
+![Lec01-loss3](image/Lec01-loss3.png)
 4. 寻找使损失最小的参数（训练（training））
 5. 在测试集（test set）上验证模型效果
+
 
 
 ## 深度学习
